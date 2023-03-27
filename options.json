@@ -1,15 +1,15 @@
 {
   "app": [
     {
-      "username": "<app username>",
-      "password": "<app password>",
-      "code": "<app code>"
+      "username": "kafafasa1",
+      "password": "Kipa2023",
+      "code": "hisense-us"
     }
   ],
   "log_level": "INFO",
   "mqtt_host": "localhost",
-  "mqtt_user": "<mqtt username>",
-  "mqtt_pass": "<mqtt password>",
+  "mqtt_user": "mqtt-user",
+  "mqtt_pass": "Kipa2023",
   "port": 8888,
   "local_ip": "<ip address of AirCon server>"
 }
